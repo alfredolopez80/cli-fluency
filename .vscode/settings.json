@@ -1,0 +1,6 @@
+{
+  "[rust]": {
+    "editor.defaultFormatter": "jinxdash.prettier-rust", // Makes the magic
+    "editor.formatOnSave": true // Optional
+  }
+}
